@@ -1,0 +1,77 @@
+body{
+    background-image: url(./img/black-low-poly-geometric-background-vector.jpg);  
+    background-size: 200px 600px;
+    margin: auto;
+}
+
+#logo-principal{
+    width: 200px;
+    border-radius: 200px;
+}
+
+#container-logo{
+    padding: 20px;    
+    background-size: 200px 600px;    
+    
+}
+
+.photos{
+    width: 300px;
+    height: 150px;
+    display: block;
+
+}
+
+#principal{
+    text-align: center;
+    display: block;
+    width: 80%;
+    margin: auto;
+}
+
+.card-img{
+    width: 160px;
+    height: 100px;
+    
+}
+
+.card-img:onclick{
+    width: 150px;
+    height: 90px;
+    
+
+}
+
+.card-title{
+    background-color: rgba(255, 255, 255, 0.6);
+
+}
+
+.logo-items{
+    width: 80px;
+    border-radius: 200px;
+    
+}
+
+.title{
+    color: white;
+    font-family: 'Sacramento', cursive;
+    font-size: 40px;
+}
+
+#tabla{
+    
+    font-weight: bolder;
+    width: 325px;
+    margin: 6px;
+
+}
+#fondo-claro{
+    background-color: rgba(253, 254, 254,0.6);
+
+}
+
+.iconos{
+    color: white;
+
+}
